@@ -17,13 +17,6 @@ organizations:
 - name: Turing Class, Peking University
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Algorithms
-- Complexity
-
 education:
   courses:
   - course: BSc in Computer Science
@@ -37,7 +30,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'renxuandi@pku.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:renxuandi@pku.edu.cn 
+  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/rxdoi
@@ -52,7 +46,4 @@ social:
 email: "renxuandi@pku.edu.cn"
 
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a third-year undergraduate in Turing Class, Peking University. I have a broad interest in theoretical computer science. [CV]
