@@ -5,12 +5,20 @@
     <link>rxdoi.github.io/publication/</link>
       <atom:link href="rxdoi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/rxdoi.github.io/images/icon_hu8ac400955399897a6aaa51182b8b68c8_63322_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>rxdoi.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Generalized Sorting with Predictions</title>
+      <link>rxdoi.github.io/publication/sosa-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>rxdoi.github.io/publication/sosa-21/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
