@@ -5,7 +5,7 @@
     <link>https://rxdoi.github.io/</link>
       <atom:link href="https://rxdoi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 10:47:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jul 2023 09:07:17 +0800</lastBuildDate>
     <image>
       <url>https://rxdoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Improved Hardness of Approximating k-Clique under ETH</title>
+      <link>https://rxdoi.github.io/publication/kclique_focs23/</link>
+      <pubDate>Sun, 02 Jul 2023 09:07:17 +0800</pubDate>
+      <guid>https://rxdoi.github.io/publication/kclique_focs23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Constant Approximating Parameterized k-SetCover is W[2]-hard</title>
-      <link>https://rxdoi.github.io/publication/ksetcover/</link>
+      <link>https://rxdoi.github.io/publication/ksetcover_soda23/</link>
       <pubDate>Sat, 01 Jan 2022 10:47:00 +0800</pubDate>
-      <guid>https://rxdoi.github.io/publication/ksetcover/</guid>
+      <guid>https://rxdoi.github.io/publication/ksetcover_soda23/</guid>
       <description></description>
     </item>
     
@@ -30,17 +38,17 @@
     
     <item>
       <title>On Lower Bounds of Approximating Parameterized k-Clique</title>
-      <link>https://rxdoi.github.io/publication/kclique/</link>
+      <link>https://rxdoi.github.io/publication/kclique_icalp22/</link>
       <pubDate>Sat, 11 Dec 2021 09:36:17 +0800</pubDate>
-      <guid>https://rxdoi.github.io/publication/kclique/</guid>
+      <guid>https://rxdoi.github.io/publication/kclique_icalp22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalized Sorting with Predictions</title>
-      <link>https://rxdoi.github.io/publication/sosa21/</link>
+      <link>https://rxdoi.github.io/publication/gsorting_sosa21/</link>
       <pubDate>Wed, 01 Jan 2020 10:52:31 +0800</pubDate>
-      <guid>https://rxdoi.github.io/publication/sosa21/</guid>
+      <guid>https://rxdoi.github.io/publication/gsorting_sosa21/</guid>
       <description></description>
     </item>
     
