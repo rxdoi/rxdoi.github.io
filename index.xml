@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>https://rxdoi.github.io/</link>
+      <atom:link href="https://rxdoi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rxdoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://rxdoi.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Almost Optimal Time Lower Bound for Approximating Parameterized Clique, CSP, and More, under ETH</title>
+      <link>https://rxdoi.github.io/publication/shortpih/</link>
+      <pubDate>Wed, 17 Apr 2024 09:07:17 +0800</pubDate>
+      <guid>https://rxdoi.github.io/publication/shortpih/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameterized Inapproximability Hypothesis under ETH</title>
+      <link>https://rxdoi.github.io/publication/eth2pih/</link>
+      <pubDate>Thu, 30 Nov 2023 09:07:17 +0800</pubDate>
+      <guid>https://rxdoi.github.io/publication/eth2pih/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baby PIH: Parameterized Inapproximability of Min CSP</title>
+      <link>https://rxdoi.github.io/publication/babypih/</link>
+      <pubDate>Tue, 24 Oct 2023 09:07:17 +0800</pubDate>
+      <guid>https://rxdoi.github.io/publication/babypih/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Hardness of Approximating k-Clique under ETH</title>
+      <link>https://rxdoi.github.io/publication/kclique_focs23/</link>
+      <pubDate>Sun, 02 Jul 2023 09:07:17 +0800</pubDate>
+      <guid>https://rxdoi.github.io/publication/kclique_focs23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constant Approximating Parameterized k-SetCover is W[2]-hard</title>
+      <link>https://rxdoi.github.io/publication/ksetcover_soda23/</link>
+      <pubDate>Sat, 01 Jan 2022 10:47:00 +0800</pubDate>
+      <guid>https://rxdoi.github.io/publication/ksetcover_soda23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on Parameterized Inapproximability: k-Clique, k-SetCover, and More</title>
+      <link>https://rxdoi.github.io/notes/survey1/</link>
+      <pubDate>Sat, 11 Dec 2021 10:50:13 +0800</pubDate>
+      <guid>https://rxdoi.github.io/notes/survey1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Lower Bounds of Approximating Parameterized k-Clique</title>
+      <link>https://rxdoi.github.io/publication/kclique_icalp22/</link>
+      <pubDate>Sat, 11 Dec 2021 09:36:17 +0800</pubDate>
+      <guid>https://rxdoi.github.io/publication/kclique_icalp22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Sorting with Predictions</title>
+      <link>https://rxdoi.github.io/publication/gsorting_sosa21/</link>
+      <pubDate>Wed, 01 Jan 2020 10:52:31 +0800</pubDate>
+      <guid>https://rxdoi.github.io/publication/gsorting_sosa21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
