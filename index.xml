@@ -84,5 +84,79 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Mandarin Songs</title>
+      <link>https://rxdoi.github.io/mandarin_songs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rxdoi.github.io/mandarin_songs/</guid>
+      <description>&lt;p&gt;My favorite several Mandarin albums in recent years:&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 30px; justify-content: center; align-items: flex-start; flex-wrap: nowrap; overflow-x: auto; text-align: center; font-size: 14px;&#34;&gt;
+  &lt;div&gt;
+    &lt;img src=&#34;https://rxdoi.github.io/images/The_Inner_Me_(album).jpg&#34; alt=&#34;心里学&#34; width=&#34;180&#34;&gt;
+    &lt;div style=&#34;margin-top: 5px;&#34;&gt;徐佳莹&lt;/div&gt;
+    &lt;div&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%BF%83%E8%A3%A1%E5%AD%B8&#34; target=&#34;_blank&#34;&gt;《心里学》&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;img src=&#34;https://rxdoi.github.io/images/Story_Thief.jpeg&#34; alt=&#34;偷故事的人&#34; width=&#34;180&#34;&gt;
+    &lt;div style=&#34;margin-top: 5px;&#34;&gt;张惠妹&lt;/div&gt;
+    &lt;div&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%81%B7%E6%95%85%E4%BA%8B%E7%9A%84%E4%BA%BA&#34; target=&#34;_blank&#34;&gt;《偷故事的人》&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;img src=&#34;https://rxdoi.github.io/images/Eve_Ai,_Fade_to_Exist.jpg&#34; alt=&#34;垂直活着，水平留恋着&#34; width=&#34;180&#34;&gt;
+    &lt;div style=&#34;margin-top: 5px;&#34;&gt;艾怡良&lt;/div&gt;
+    &lt;div&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%9E%82%E7%9B%B4%E6%B4%BB%E8%91%97%EF%BC%8C%E6%B0%B4%E5%B9%B3%E7%95%99%E6%88%80%E8%91%97%E3%80%82&#34; target=&#34;_blank&#34;&gt;《垂直活着，水平留恋着》&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;img src=&#34;https://rxdoi.github.io/images/wan_qing.jpg&#34; alt=&#34;万能青年旅店&#34; width=&#34;180&#34;&gt;
+    &lt;div style=&#34;margin-top: 5px;&#34;&gt;万能青年旅店&lt;/div&gt;
+    &lt;div&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%B8%87%E8%83%BD%E9%9D%92%E5%B9%B4%E6%97%85%E5%BA%97_(%E4%B8%93%E8%BE%91)&#34; target=&#34;_blank&#34;&gt;《万能青年旅店》&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;img src=&#34;https://rxdoi.github.io/images/The_Servile2017.jpg&#34; alt=&#34;丑奴儿&#34; width=&#34;180&#34;&gt;
+    &lt;div style=&#34;margin-top: 5px;&#34;&gt;草东没有派对&lt;/div&gt;
+    &lt;div&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E9%86%9C%E5%A5%B4%E5%85%92_(%E5%B0%88%E8%BC%AF)&#34; target=&#34;_blank&#34;&gt;《丑奴儿》&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;p&gt;Concerts I&amp;rsquo;ve attended or plan to attend (and actively expanding!)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2023.5.7 陈粒 “洄游” @ Beijing&lt;/li&gt;
+&lt;li&gt;2025.1.11 徐佳莹 “变得有些奢侈的事” @ Hangzhou&lt;/li&gt;
+&lt;li&gt;2025.3.23 邓紫棋 “I Am Gloria” @ San Francisco&lt;/li&gt;
+&lt;li&gt;2025.5.31 张惠妹 “ASMR MAXXX” @ Nanchang&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous</title>
+      <link>https://rxdoi.github.io/miscellaneous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rxdoi.github.io/miscellaneous/</guid>
+      <description>&lt;ul style=&#34;list-style-type: disc; padding-left: 20px; font-size: 16px; line-height: 1.6;&#34;&gt;
+  &lt;li style=&#34;margin-bottom: 12px;&#34;&gt;
+    My name in Chinese is 任轩笛.
+  &lt;/li&gt;
+  &lt;li style=&#34;margin-bottom: 12px;&#34;&gt;
+    I used to participate in algorithm competitions during high school and college.  
+    I won a &lt;a href=&#34;https://stats.ioinformatics.org/people/6478&#34; target=&#34;_blank&#34;&gt;gold medal at IOI 2018&lt;/a&gt;.
+  &lt;/li&gt;
+  &lt;li style=&#34;margin-bottom: 12px;&#34;&gt;
+    I play a bit of many sports, though I&#39;m not particularly good at any of them — basketball, tennis, badminton, and table tennis, to name a few.
+  &lt;/li&gt;
+  &lt;li style=&#34;margin-bottom: 12px;&#34;&gt;
+    I&#39;m deeply passionate about music. I played piano for over a decade during my childhood, and my favorite composers are Beethoven and Chopin.  
+    I also enjoy listening to Chinese pop and rock music — see &lt;a href=&#34;https://rxdoi.github.io/mandarin_songs&#34;&gt;here&lt;/a&gt; for details.
+  &lt;/li&gt;
+  &lt;li style=&#34;margin-bottom: 12px;&#34;&gt;
+    I&#39;m also into some hardcore games, especially roguelike and action titles.  
+    My favorite games include &lt;i&gt;DOTA 2&lt;/i&gt;, &lt;i&gt;Slay the Spire&lt;/i&gt;, &lt;i&gt;The Binding of Isaac&lt;/i&gt;, and &lt;i&gt;Elden Ring&lt;/i&gt;.  
+    I enjoy playing Japanese Mahjong — I reached the &lt;b&gt;雀圣 (Master)&lt;/b&gt; rank on the platform &lt;i&gt;Mahjong Soul&lt;/i&gt;.  
+    Feel free to check out &lt;a href=&#34;https://space.bilibili.com/30626517&#34; target=&#34;_blank&#34;&gt;my Bilibili account&lt;/a&gt; for some of my game clips.
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
