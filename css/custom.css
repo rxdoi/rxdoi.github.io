@@ -75,3 +75,10 @@ img {
   }
 }
 
+/* 强制 album-gallery 下的所有图片统一为 120px */
+.album-gallery img {
+  width: 120px !important;
+  height: auto !important;
+}
+
+
