@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://rxdoi.github.io/sitemap.xml

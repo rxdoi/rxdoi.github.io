@@ -1,0 +1,44 @@
+/* custom.css: enlarge font, widen content, style photos */
+body {
+  font-size: 115%;
+}
+
+.main-content,
+.content {
+  max-width: none;
+  width: 90%;          /* 或者 100%，根据喜好 */
+  margin: 0 auto;
+}
+
+.publications li strong {
+  color: #0077cc;
+  font-size: 1em;
+}
+
+.publications li {
+  margin-bottom: 1em;
+  font-size: 1em;
+}
+
+.sidebar {
+  max-width: 300px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.profile-pic, .content img:first-of-type {
+  width: 400px;
+  float: none;
+  display: block;
+  margin: 0 auto 1em;
+}
+
+.container,
+.wrapper,
+.page-wrapper,
+#main {
+  max-width: none !important;
+  width: 50% !important;
+}
