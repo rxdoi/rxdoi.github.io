@@ -43,71 +43,35 @@ img {
   width: 50% !important;
 }
 
-@media only screen and (max-width: 768px) {
-  .blog,
-  .blog-post-date,
-  .blog-post-list,
-  .collapsed,
-  .contact-links,
-  .draft-banner,
-  .expand-button,
-  .follow-links,
-  .footer-col,
-  .footer-col-1,
-  .footer-col-2,
-  .footer-col-3,
-  .footer-col-wrapper,
-  .footnote-backref,
-  .footnote-ref,
-  .gallery,
-  .header-links,
-  .icon,
-  .image,
-  .image-caption,
-  .image-link,
-  .image-overlay,
-  .image-wrapper,
-  .item,
-  .item-hover,
-  .item-wrapper,
-  .light-mode,
-  .link,
-  .list,
-  .menu,
-  .meta,
-  .name-date,
-  .nav,
-  .page-nav,
-  .page-wrapper,
-  .pdf-viewer,
-  .post-content,
-  .post-header,
-  .profile-pic,
-  .publications,
-  .search-col,
-  .section-body,
-  .sidebar,
-  .sidebar-contents,
-  .site-footer,
-  .site-header,
-  .site-nav,
-  .site-title,
-  .site-title-text,
-  .social-link,
-  .social-links,
-  .toc,
-  .toc-button,
-  .toc-container,
-  .toc-list,
-  .toc-title,
-  .work,
-  .work-bubble,
-  .work-content,
-  .work-item,
-  .work-text {
-    max-width: 100% !important;
+/* 移动端＆iPad竖屏 全宽铺满 */
+@media only screen and (max-width: 820px) {
+  html, body,
+  .wrapper, .container, .page-wrapper, .site-wrapper, .site-body,
+  #main, .content {
+    max-width: none !important;
     width: 100% !important;
-    padding-left: 1rem !important;
-    padding-right: 1rem !important;
+    margin: 0 !important;
+    padding-left: 0.5rem !important;
+    padding-right: 0.5rem !important;
+  }
+  .sidebar, .site-sidebar {
+    display: none !important;
   }
 }
+/* 移动端菜单按钮前面加个“☰”符号，显眼提示 */
+@media only screen and (max-width: 820px) {
+  /* 选择器可能因主题版本略有不同，请按实际调整 */
+  .site-header .menu-icon {
+    position: relative !important;
+  }
+  .site-header .menu-icon::before {
+    content: "☰";            /* 汉堡菜单符号 */
+    font-size: 24px !important;
+    color: #333 !important;   /* 深灰色，和背景形成对比 */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
