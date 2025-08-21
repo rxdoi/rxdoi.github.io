@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://rxdoi.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/misc/</loc>
+    <loc>https://rxdoi.github.io/misc/</loc>
   </url><url>
-    <loc>http://localhost:1313/music/</loc>
+    <loc>https://rxdoi.github.io/music/</loc>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>https://rxdoi.github.io/publications/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://rxdoi.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://rxdoi.github.io/tags/</loc>
   </url>
 </urlset>
