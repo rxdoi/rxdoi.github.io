@@ -75,10 +75,15 @@ img {
   }
 }
 
-/* 强制 album-gallery 下的所有图片统一为 120px */
+/* 统一专辑图尺寸并去除边框/阴影，避免黑边 */
 .album-gallery img {
   width: 120px !important;
-  height: auto !important;
+  height: 120px !important;
+  object-fit: cover !important;
+  display: block;
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
 }
 
 /* 强制 arxiv 和 slides 链接，无论 link 还是 visited，都要是浅紫 */
