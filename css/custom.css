@@ -86,10 +86,12 @@ img {
   outline: none !important;
 }
 
-/* 强制 arxiv 和 slides 链接，无论 link 还是 visited，都要是浅紫 */
+/* 强制 arxiv、slides、JACM 链接，无论 link 还是 visited，都为绿色 */
 .publications a[href*="arxiv"],
 .publications a[href*="slides"],
+.publications a[href*="dl.acm.org"],
 .publications a[href*="arxiv"]:visited,
-.publications a[href*="slides"]:visited {
+.publications a[href*="slides"]:visited,
+.publications a[href*="dl.acm.org"]:visited {
   color: #3cb371 !important;
 }
