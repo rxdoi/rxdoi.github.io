@@ -95,3 +95,15 @@ img {
 .publications a[href*="dl.acm.org"]:visited {
   color: #3cb371 !important;
 }
+
+/* 顶栏站点名字体：仅影响标题文本 */
+.site-header .site-title-text {
+  font-family: Optima, "Optima LT Std", "Segoe UI", "Avenir Next", Arial, sans-serif;
+  font-style: normal;
+}
+
+/* 页面正文内的小标题（含 publications/misc 的 h3）使用 Optima */
+.blog h3 {
+  font-family: Optima, "Optima LT Std", "Segoe UI", "Avenir Next", Arial, sans-serif;
+  font-style: normal;
+}
