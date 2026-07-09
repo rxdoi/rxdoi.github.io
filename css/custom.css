@@ -12,12 +12,24 @@ body {
 
 .publications li strong {
   color: #0077cc;
-  font-size: 1em;
+  font-size: 1.06em;
+  font-weight: 700;
+}
+
+.publications li em {
+  color: #111;
+  font-weight: 400;
 }
 
 .publications li {
   margin-bottom: 1em;
   font-size: 1em;
+}
+
+.publications ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
 }
 
 .sidebar {
@@ -86,14 +98,17 @@ img {
   outline: none !important;
 }
 
-/* 强制 arxiv、slides、JACM 链接，无论 link 还是 visited，都为绿色 */
-.publications a[href*="arxiv"],
-.publications a[href*="slides"],
-.publications a[href*="dl.acm.org"],
-.publications a[href*="arxiv"]:visited,
-.publications a[href*="slides"]:visited,
-.publications a[href*="dl.acm.org"]:visited {
+/* Publications 内的所有论文链接始终使用同一种绿色 */
+.publications a,
+.publications a:visited,
+.publications a:hover,
+.publications a:focus,
+.publications a:active {
   color: #3cb371 !important;
+}
+
+.publications .best-paper-award {
+  color: red !important;
 }
 
 /* 顶栏站点名字体：仅影响标题文本 */
@@ -106,4 +121,7 @@ img {
 .blog h3 {
   font-family: Optima, "Optima LT Std", "Segoe UI", "Avenir Next", Arial, sans-serif;
   font-style: normal;
+  font-size: 1.45em;
+  font-weight: 700;
+  line-height: 1.25;
 }
